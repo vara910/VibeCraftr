@@ -2,7 +2,7 @@
   <img src="public/logo.svg" alt="YouTube Mood Mixer Logo" width="200"/>
 </p>
 
-<h1 align="center">YouTube Mood Mixer</h1>
+<h1 align="center">VibeCraftr</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-18.2.0-blue" alt="React 18" />
