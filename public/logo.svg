@@ -1,0 +1,28 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="90" fill="#1976d2" />
+  <circle cx="100" cy="100" r="80" fill="#f5f5f5" />
+  
+  <!-- Music Note -->
+  <path d="M120,50 L120,110 Q120,125 105,125 Q90,125 90,110 Q90,95 105,95 Q110,95 115,97 L115,50 Z" 
+        fill="#1976d2" stroke="#1976d2" stroke-width="3" />
+  <ellipse cx="97.5" cy="110" rx="12.5" ry="10" fill="#1976d2" />
+  
+  <!-- Mood Face (Happy) -->
+  <circle cx="75" cy="75" r="25" fill="#e91e63" />
+  
+  <!-- Eyes -->
+  <circle cx="65" cy="70" r="4" fill="#f5f5f5" />
+  <circle cx="85" cy="70" r="4" fill="#f5f5f5" />
+  
+  <!-- Smile -->
+  <path d="M62,80 Q75,95 88,80" fill="none" stroke="#f5f5f5" stroke-width="3" stroke-linecap="round" />
+  
+  <!-- Text Path for "Mood Mixer" -->
+  <path id="textPath" d="M30,150 A70,70 0 0,0 170,150" fill="none" />
+  <text font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1976d2">
+    <textPath href="#textPath" startOffset="22%">MOOD MIXER</textPath>
+  </text>
+</svg>
+
